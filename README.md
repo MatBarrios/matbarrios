@@ -2,14 +2,13 @@
 
 <h3 align="center">Front-End and Web3 Developer </h3>
 
-- 👨🏻‍💻 I'm **constantly** improving my skills, everything I dont know, I ask without shame.
-- 🔗 I'm also a **blockchain** enthusiast 
-- 🔹 I’m currently learning **smart contracts** development with solidity 
-- 🎯 My goal is to combine my web3 interest with coding, to create amazing things.
+- 👨🏻‍💻 I'm **constantly** improving my skills.
+- 🔗 I'm a **blockchain** enthusiast, currently learning **smart contracts** development with solidity 
+- 🎯 My goal is to combine my web3 interest with coding, to build cool things.
 
 **You can find me** on [LinkedIn](https://www.linkedin.com/in/mateo-barrios-595540123/)
 
-### **Tools**
+### **Technologies**
 
 <p align="left">  
 
