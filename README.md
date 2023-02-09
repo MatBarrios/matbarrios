@@ -2,8 +2,8 @@
 
 <h3 align="center">Front-End and Web3 Developer </h3>
 
-- 👨🏻‍💻 I'm a Blockchain Developer at Shokworks Inc.
-- 🔗 I've also worked as a business lawyer for many years.
+- 🔗 I'm a Blockchain Developer at Shokworks Inc.
+- 👨🏻‍💻 I've also worked as a business lawyer for many years.
 
 **You can find me** on [LinkedIn](https://www.linkedin.com/in/mateo-barrios-595540123/)
 
